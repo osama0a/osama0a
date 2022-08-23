@@ -4,7 +4,7 @@ Hi, I'm Osama Fouad!
 
 <br/>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Flutter+developer;Always+learning+new+things;Hard-working&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Flutter+Developer;Always+learning+new+things;Hard-working&center=true&width=380&height=45"></a>
 </p>
 
 ```
