@@ -12,7 +12,7 @@ osama0a@github
 -------------------------
 💻 Hi, I am Osama Alshibami 
 📝 I am a Flutter Developer
-🌟 Main languages: Dart, Framework flutter
+🌟 Main languages: Dart & flutter Framework
 ```
 <hr>
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
