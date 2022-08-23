@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Osama Fouad!
+Hi, I'm Osama Alshibami!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
 <br/>
@@ -10,7 +10,7 @@ Hi, I'm Osama Fouad!
 ```
 osama0a@github
 -------------------------
-💻 Hi, I am Osama Fouad 
+💻 Hi, I am Osama Alshibami 
 📝 I am a Flutter Developer
 🌟 Main languages: Dart, Framework flutter
 ```
